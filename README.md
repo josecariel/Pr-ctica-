@@ -22,4 +22,4 @@ public static void main(String args[])
    JOptionPane.showImputDialog ( null "la suma es" + suma, "suma de dos enteros", JOptionPane.PLAIN_MASSAGE);
    
   }//fin del metodo main
-}//fin de la clase Suma
+ }//fin de la clase Suma
